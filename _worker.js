@@ -6,8 +6,8 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "11111111-1111-1111-1111-111112011990";
 
-const proxyIPs = [""];
-const cn_hostnames = [''];
+const proxyIPs = "61.245.11.60";
+const cn_hostnames = 'tiktok.amberss.site';
 let CDNIP = '\u0077\u0077\u0077\u002e\u0076\u0069\u0073\u0061\u002e\u0063\u006f\u006d\u002e\u0073\u0067'
 // http_ip
 let IP1 = '\u0077\u0077\u0077\u002e\u0076\u0069\u0073\u0061\u002e\u0063\u006f\u006d'
